@@ -1,0 +1,36 @@
+#footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/ 
+    height: auto;
+}
+
+#footer-rights {
+    font-size: small;
+    padding-top: 9vh;
+}
+
+#navbar {
+    background: #e6f7ff33;
+}
+
+#usuario {
+    font-size: small;
+    padding-top: 4vh;
+}
+
+
+#content {
+    padding-bottom: 0.2vh;
+    color: #e6f7ff;
+}
+
+#options {
+    margin-right: 6vw;
+}
+
+#logo {
+    padding-bottom: 2vh;
+}
